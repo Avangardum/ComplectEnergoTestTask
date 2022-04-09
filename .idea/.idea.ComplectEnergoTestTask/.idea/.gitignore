@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.ComplectEnergoTestTask.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Yuriy\Unity Projects\ComplectEnergoTestTask\.idea\.idea.ComplectEnergoTestTask\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
